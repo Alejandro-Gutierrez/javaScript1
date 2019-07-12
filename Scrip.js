@@ -72,6 +72,9 @@ function agregar(){
         column4.appendChild(text4)
         row.appendChild(column4)
         tabla.appendChild(row);
+
+        
+        
   
 }
 
